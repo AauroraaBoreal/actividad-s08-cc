@@ -21,7 +21,7 @@ except ImportError:
 
 
 # =====================================================
-# CONFIGURACIÓN GENERAL
+# CONFIGURACIÓN GENERAl
 # =====================================================
 
 st.set_page_config(
